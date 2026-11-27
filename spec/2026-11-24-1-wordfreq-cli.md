@@ -1,5 +1,5 @@
 ---
-status: draft
+status: approved
 issue: 1
 intent: intent/2026-11-24-1-wordfreq-cli.md
 ---

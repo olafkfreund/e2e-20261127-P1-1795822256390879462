@@ -1,5 +1,5 @@
 ---
-status: draft
+status: approved
 issue: 1
 author: factory-e2e
 ---
